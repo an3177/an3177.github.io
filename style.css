@@ -1,0 +1,17 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: lightsteelblue;
+  text-align:center;
+}
+
+h1{
+  color:steelblue;
+}
+
+h3{
+  color:royalblue;
+}
